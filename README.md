@@ -20,7 +20,6 @@ This repository contains the code for **Self-attention Multi-Modal Fusion Networ
 3. [Dataset Generation](#dataset-generation)
 4. [Training](#training)
 5. [Evaluation](#evaluation)
-6. [Acknowledgements](#acknowledgements)
 
 ## **Setup**
 Install anaconda
