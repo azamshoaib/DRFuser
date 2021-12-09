@@ -40,10 +40,10 @@ pip install -r requirements.txt
 ```
 ## **Dataset**
 A. **DRFuser Dataset** \
-Our collected dataset include event, frame-based RGB and vehicle control data can be requested at. \
+Our collected dataset include event, frame-based RGB and vehicle control data can be requested at https://forms.gle/dTHTfigxx2nNNtuQ6.
 
 B. **Davis Driving Dataset (DDD)** \
-The Davis Driving dataset can be downloaded from https://sites.google.com/view/davis-driving-dataset-2020/home \
+The Davis Driving dataset can be downloaded from https://sites.google.com/view/davis-driving-dataset-2020/home
 
 C. **Carla Eventscape Dataset**
 
