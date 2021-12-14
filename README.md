@@ -2,25 +2,21 @@
 ## [Paper]() 
 ![](./assets/img/framework.png)
 
-This repository contains the code for **Self-attention Multi-Modal Fusion Network for Learning End-to-End Control Policies**. If you find our code or paper useful, please cite
+This repository contains the code for **Self-attention Multi-Modal Fusion Network for Learning End-to-End Control Policies**. 
 
-```
-@article{munir2021ldnet,
-  title={LDNet: End-to-End Lane Marking Detection Approach Using a Dynamic Vision Sensor},
-  author={Munir, Farzeen and Azam, Shoaib and Jeon, Moongu and Lee, Byung-Geun and Pedrycz, Witold},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2021},
-  publisher={IEEE}
-}
-```
 
 ## **Contents**
-1. [Setup](#setup)
-2. [Dataset](#dataset)
-3. [Dataset Generation](#dataset-generation)
-4. [Training](#training)
-5. [Evaluation](#evaluation)
-6. [Demo Videos](#demo-videos)
+1. [Demo Videos](#demo-videos)
+2. [Setup](#setup)
+3. [Dataset](#dataset)
+4. [Dataset Generation](#dataset-generation)
+5. [Training](#training)
+6. [Evaluation](#evaluation)
+
+
+## **Demo Videos**
+[[DRFuser Data Demo]](https://photos.app.goo.gl/tPomcSXxqgr4fWwT8)[[DDD Demo]](https://photos.app.goo.gl/1qXs5jcDzAZKehZT8) [[Carla EventScape Data Demo]](https://photos.app.goo.gl/CskC8qJbxZhk843U7)
+
 
 ## **Setup**
 Install anaconda
@@ -102,8 +98,7 @@ Testing a network is done by using two scripts. First, the ```test.py``` script 
 
 **Note:** The scripts for training and evaluation are same for the DDD and Carla Eventscape datasets. The required arguments in the ```train.py``` must be changed before using the aforementioned datasets.
 
-## **Demo Videos**
-[[DRFuser Data Demo]](https://photos.app.goo.gl/tPomcSXxqgr4fWwT8)[[DDD Demo]](https://photos.app.goo.gl/1qXs5jcDzAZKehZT8) [[Carla EventScape Data Demo]](https://photos.app.goo.gl/CskC8qJbxZhk843U7)
+
 
 
 
