@@ -20,6 +20,7 @@ This repository contains the code for **Self-attention Multi-Modal Fusion Networ
 3. [Dataset Generation](#dataset-generation)
 4. [Training](#training)
 5. [Evaluation](#evaluation)
+6. [Demo Videos](#demo-videos)
 
 ## **Setup**
 Install anaconda
@@ -101,6 +102,8 @@ Testing a network is done by using two scripts. First, the ```test.py``` script 
 
 **Note:** The scripts for training and evaluation are same for the DDD and Carla Eventscape datasets. The required arguments in the ```train.py``` must be changed before using the aforementioned datasets.
 
+## **Demo Videos**
+[![]](https://photos.app.goo.gl/1qXs5jcDzAZKehZT8)
 
 
 
