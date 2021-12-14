@@ -5,17 +5,16 @@
 This repository contains the code for **Self-attention Multi-Modal Fusion Network for Learning End-to-End Control Policies**. 
 
 
-## **Contents**
-1. [Demo Videos](#demo-videos)
-2. [Setup](#setup)
-3. [Dataset](#dataset)
-4. [Dataset Generation](#dataset-generation)
-5. [Training](#training)
-6. [Evaluation](#evaluation)
-
-
 ## **Demo Videos**
 [[DRFuser Data Demo]](https://photos.app.goo.gl/tPomcSXxqgr4fWwT8)[[DDD Demo]](https://photos.app.goo.gl/1qXs5jcDzAZKehZT8) [[Carla EventScape Data Demo]](https://photos.app.goo.gl/CskC8qJbxZhk843U7)
+
+## **Contents**
+
+1. [Setup](#setup)
+2. [Dataset](#dataset)
+3. [Dataset Generation](#dataset-generation)
+4. [Training](#training)
+5. [Evaluation](#evaluation)
 
 
 ## **Setup**
