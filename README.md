@@ -1,6 +1,9 @@
 # Self-attention Multi-Modal Fusion Network for Learning End-to-End Control Policies
-This repository contains the code for **Self-attention Multi-Modal Fusion Network for Learning End-to-End Control Policies**. 
-
+This repository contains the code for **Self-attention Multi-Modal Fusion Network for Learning End-to-End Control Policies**.     
+\
+&nbsp;
+\
+&nbsp;
 ![](./assets/img/framework.png)
 
 
