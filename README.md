@@ -1,5 +1,5 @@
-# Self-attention Multi-Modal Fusion Network for Learning End-to-End Control Policies
-This repository contains the code for **Self-attention Multi-Modal Fusion Network for Learning End-to-End Control Policies**.     
+# Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction
+This repository contains the code for **Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction**.     
 \
 &nbsp;
 \
