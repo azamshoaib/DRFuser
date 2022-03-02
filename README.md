@@ -1,5 +1,13 @@
 # Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction
-This repository contains the code for **Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction**.     
+This repository contains the code for **Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction**. If you find our code or paper useful, please cite
+```bibtex
+@article{munir2022multi,
+  title={Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction},
+  author={Munir, Farzeen and Azam, Shoaib and Lee, Byung-Geun and Jeon, Moongu},
+  journal={arXiv preprint arXiv:2202.05500},
+  year={2022}
+}
+```
 \
 &nbsp;
 \
