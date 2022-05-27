@@ -56,8 +56,7 @@ C. **Carla Eventscape Dataset**
 The Carla Eventscape dataset can be downloaded at http://rpg.ifi.uzh.ch/RAMNet.html
 
 ## **Dataset Generation**
-1. DRFuser Dataset \
-The raw dataset can be requested at \
+1. DRFuser Dataset
 i) **Pre-processing of data** \
 **Note: We recommend to deactivate the conda environment and install the following dependencies on the system.** \
     - Install ROS and its dependencies from http://wiki.ros.org/Installation/Ubuntu . In our experimentation we have used ROS **melodic**. Please check your Ubuntu and install the respective ROS version.
